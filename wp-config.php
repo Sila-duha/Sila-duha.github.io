@@ -23,7 +23,7 @@
 define('DB_NAME', 'Sila-duha.github.io');
 
 /** Имя пользователя MySQL */
-define('DB_USER', 'root');
+define('DB_USER', 'Sila-duha');
 
 /** Пароль к базе данных MySQL */
 define('DB_PASSWORD', 'password_here');
