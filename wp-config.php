@@ -20,7 +20,7 @@
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define('DB_NAME', 'Sila-duha.github.io');
+define('DB_NAME', 'Sila-duha.github.ru');
 
 /** Имя пользователя MySQL */
 define('DB_USER', 'Sila-duha');
